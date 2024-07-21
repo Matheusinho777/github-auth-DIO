@@ -1,2 +1,2 @@
 # github-auth-DIO
-Repo de testes de auth 
+Repositório de testes de autenticações.
